@@ -1,0 +1,4 @@
+# Hand history exports (may contain other players names)
+*.txt
+__pycache__/
+.DS_Store
